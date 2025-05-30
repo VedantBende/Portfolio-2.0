@@ -171,7 +171,7 @@ xdg-open index.html
 
 Let’s connect and build something great together!
 
-* 📧 Email: [Vedantbende2112@gmail.com](mailto:vedantbende2121@gmail.com)
+* 📧 Email: [vedantbende2121@gmail.com](mailto:vedantbende2121@gmail.com)
 * 💼 LinkedIn: [https://www.linkedin.com/in/vedant-bende-3aa28b2a8/](https://www.linkedin.com/in/vedant-bende-3aa28b2a8/)
 * 🧑‍💻 GitHub: [https://github.com/VedantBende](https://github.com/VedantBende)
 
