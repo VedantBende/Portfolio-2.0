@@ -143,9 +143,9 @@ xdg-open index.html
 
 1. Push your project to a GitHub repository: ```bash
 
-git add .
-git commit -m "Initial commit"
-git push origin main
+ * git add .
+ * git commit -m "Initial commit"
+ * git push origin main
 
 2. On GitHub, go to your repository → **Settings** → **Pages**.
 
