@@ -85,59 +85,60 @@ Edit
 start index.html      # Windows
 open index.html       # macOS
 xdg-open index.html   # Linux
-🧭 Usage Guide
-Custom Cursor
-Tracks mouse movement with a minimalistic dot.
+## 🧭 Usage Guide
 
-Expands with blur effect on hovering interactive elements (a, .interactive, etc.)
+### 🔘 Custom Cursor
 
-Navigation
-Uses smooth scrolling to navigate between:
+- Tracks mouse movement with a minimalist circular dot.
+- Expands and glows when hovering over interactive elements like links or buttons.
 
-Home
+### 🧭 Navigation
 
-About
+Smooth scrolling navigation to these sections:
 
-Experience
+- Home
+- About
+- Experience
+- Certifications
+- Projects
+- Contact
 
-Certifications
+### 📄 Resume
 
-Projects
+Click on the **“Resume”** link in the navigation bar to download your resume.  
+Ensure `Vedant_Bende_Resume.pdf` is placed inside the `assets/` folder.
 
-Contact
+---
 
-Resume
-Click on "Resume" in the nav bar to download the PDF from assets/Vedant_Bende_Resume.pdf.
+## 🎨 Customization
 
-🎨 Customization
-Profile Info:
-Update your name, description, and tagline in index.html.
+### 📌 Content Edits
 
-Sections to Modify:
+- **Profile Details** → `index.html` (Name, Bio, Tagline)
+- **About Section** → Update text and image under `#about`
+- **Experience** → Add internships, jobs under `#experience`
+- **Certifications** → List courses or achievements under `#certifications`
+- **Projects** → Showcase GitHub or live projects under `#projects`
+- **Contact** → Modify email/social links under `#contact`
 
-#about: Add bio and image
+### 🎨 Styling
 
-#experience: Timeline or list of work experience
+Edit `styles.css` to change:
 
-#certifications: Courses and achievements
+- Fonts and colors
+- Background effects
+- Layout, spacing, and responsiveness
+- Animations and transitions
 
-#projects: Portfolio projects with links/screenshots
+### ⚙️ Scripts
 
-#contact: Email/social/contact form
+The `script.js` handles custom interaction logic:
 
-Style Adjustments:
-Modify styles.css to adjust themes, fonts, layout, spacing, and colors.
-
-Scripts:
-The script.js manages interactivity like:
-
-javascript
-Copy
-Edit
-// Custom cursor position + hover effects
-// Smooth anchor scrolling
-🚀 Deployment (GitHub Pages)
-Commit and push your code to GitHub:
+```javascript
+// Custom cursor tracking and animation
+// Smooth scroll for navigation anchors
+🚀 Deployment on GitHub Pages
+Push your project to a GitHub repository:
 
 bash
 Copy
@@ -145,25 +146,29 @@ Edit
 git add .
 git commit -m "Initial commit"
 git push origin main
-Go to your GitHub repository → Settings → Pages
+Go to GitHub → Repository → Settings → Pages
 
-Under "Source", select main branch and root (/)
+Under "Source", select:
 
-Your site will be live at:
+Branch: main
+
+Folder: / (root)
+
+Your portfolio will be live at:
 
 perl
 Copy
 Edit
 https://your-username.github.io/my-portfolio-2.0/
 🙏 Credits
-Font: Google Fonts - Inter
+Fonts: Inter - Google Fonts
 
-Favicon & Resume: Add your own in the assets directory
+Icons / Images / Resume: Add your own under the assets/ folder
 
-Inspiration: UI/UX inspired by modern developer portfolios
+Design Inspiration: Clean, minimal developer portfolios across the web
 
 📫 Contact
-Let's connect and build something amazing!
+Let’s connect and build something great together!
 
 📧 Email: your.email@example.com
 
@@ -174,8 +179,8 @@ Let's connect and build something amazing!
 📜 License
 This project is not open source and is protected under copyright.
 
-You may not copy, redistribute, modify, or use any part of the code or design for personal or commercial purposes without explicit written permission from the author.
+You may not copy, redistribute, modify, or use any part of the code or design for personal or commercial purposes without explicit written permission.
 
 All rights reserved © Vedant Bende.
 
-If you are interested in referencing or collaborating, please contact me.
+For reference or collaboration inquiries, please contact me.
