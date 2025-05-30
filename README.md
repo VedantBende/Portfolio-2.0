@@ -46,12 +46,12 @@ I’m **Vedant Bende**, a passionate developer building intelligent digital solu
 
 ## 🏗️ Project Structure
 
-My Portfolio 2.0/
-├── index.html          # Main HTML file
-├── styles.css          # Custom styles and responsive design
-├── script.js           # JavaScript for cursor & scroll interactions
-├── assets/             # Images, resume, and media assets
-└── README.md           # Project documentation (this file)
+My Portfolio 2.0:
+  - index.html: "Main HTML file"
+  - styles.css: "Custom styles and responsive design"
+  - script.js: "JavaScript for cursor & scroll interactions"
+  - assets: "Images, resume, and media assets"
+  - README.md: "Project documentation (this file)"
 
 ---
 
